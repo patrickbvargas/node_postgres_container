@@ -19,6 +19,5 @@
         "bradlc.vscode-tailwindcss"
       ]
     }
-  },
-  "postCreateCommand": "sh -c 'echo Version: Node.js $(node -v), npm $(npm -v), $(git --version)'"
+  }
 }
